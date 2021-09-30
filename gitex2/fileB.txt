@@ -1,0 +1,4 @@
+This is seconf file
+fileB
+in getex2
+
