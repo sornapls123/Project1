@@ -1,0 +1,9 @@
+new file 4
+which has to be revererted
+and then agian
+bring it to staging 
+area and commit
+
+k
+ready to commit now	
+
